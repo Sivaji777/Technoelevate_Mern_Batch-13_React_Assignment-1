@@ -39,6 +39,7 @@
 .sivagi{
   color:green;
 }
+/* claculator */
 .div1
 {
     width: 500px;
@@ -55,7 +56,6 @@
   margin: auto;
   border-radius: 20px;
   padding-top:0px;
-  /* margin-left:50px; */
 
 }
 .div3
@@ -65,7 +65,7 @@
   border-radius: 10px ;
   margin-left: 25px;
 }
-.body
+.calculator
 {
   background-image: url(./img/ocean.webp);
   background-repeat: no-repeat;
@@ -84,4 +84,57 @@
     font-size: 100px;
     color: white;
     text-align: center;
+}
+/* voting */
+.voting
+{
+  background-image: url(./img/mountain.webp);
+  height:700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tablemain
+{
+    margin: auto;
+    margin-left:550px;
+    padding-top: 100px;
+    font-size: 15px;
+    
+}
+.tableinside
+{
+    text-align: center;
+    background-color: rgb(252, 66, 252);
+    
+}
+.thead
+{
+  background-color: rgb(212, 243, 33);
+  height: 50PX;
+}
+/* color */
+.body1
+{
+    background-image: url(./img/flowers.webp);
+    background-size:cover;
+    height: 800px;
+    padding-top:100px;
+}
+.colordiv
+{
+    background-color: aqua;
+    width:700px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 30px;
+    text-align: center;
+}
+.dropdowndiv
+{
+    margin: auto;
+}
+.insidecolor
+{
+  height: 400px;
 }

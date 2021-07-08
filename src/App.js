@@ -1,12 +1,13 @@
 import './App.css';
 import Calculate from './components/calculator';
-
+import Color from "./components/Color"
 function App() {
   return (
-   <div>
+<div>
 <Calculate />
-    </div>
+<Color/>
+
+</div>
   );
 }
-
 export default App;
